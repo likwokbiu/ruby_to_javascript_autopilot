@@ -1,0 +1,52 @@
+14
+I have 14 apples.
+16 is greater than 10.
+Doing the same thing over and over.
+Doing the same thing over and over.
+Doing the same thing over and over.
+Doing the same thing over and over.
+Doing the same thing over and over.
+Doing the same thing over and over.
+Doing the same thing over and over.
+Doing the same thing over and over.
+Doing the same thing over and over.
+Doing the same thing over and over.
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+4950
+You are too short to ride this rollercoaster.
+You are too short to ride this rollercoaster.
+You are too short to ride this rollercoaster.
+You are too short to ride this rollercoaster.
+You are too short to ride this rollercoaster.
+You are too short to ride this rollercoaster.
+You are too short to ride this rollercoaster.
+You can get on the rollercoaster!
+You can get on the rollercoaster!
+You can get on the rollercoaster!
+You can get on the rollercoaster!
+You can get on the rollercoaster!
+You can get on the rollercoaster!
+purse
+wallet
+backback
+Hello world!
+12
